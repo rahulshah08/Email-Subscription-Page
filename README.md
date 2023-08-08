@@ -21,7 +21,11 @@
 </p>
 <h2>Preview Of My WebPage</h2>
 <div>
-  <img width="1120" alt="Email Website SS" src="https://github.com/rahulshah08/Email-Subscription-Page/assets/77283801/418106e9-cc04-4ad2-a1da-20dbccdb22b8">
+  <img width="1120" alt="Email Website SS" src="https://github.com/rahulshah08/Email-Subscription-Page/assets/77283801/b25435ff-524b-4018-8f01-b24a5253573e">
+</div>
+<div>
+  <img width="1120" alt="email list ss" src="https://github.com/rahulshah08/Email-Subscription-Page/assets/77283801/b6a8fcff-1fc3-4f65-8f33-40bd8564dc56">
+
 </div>
 <hr>
 <h2>Future Enhancements</h2>
